@@ -1,4 +1,4 @@
-<h3 align="left">Hi👋, I'm **Reyyy aka Raihan**</h3>
+<h3 align="left">Hi👋, I'm Reyyy aka Raihan</h3>
 
 - 📍 I’m recently learning about **Java, Laravel, MySQL**
 
