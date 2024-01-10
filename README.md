@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Reyyy aka Raihan</h1>
-<h3 align="center">A passionate frontend developer, designer from East Borneo, Samarinda, Indonesia</h3>
+- Hi, I'm **Reyyy aka Raihan**
 
-- 🌱 I’m recently learning about **Java, Laravel, MySQL**
+- 📍 I’m recently learning about **Java, Laravel, MySQL**
+
+- 🎯 2024 Goals : **become the most rich people 😅**
 
 - 📫 How to reach me **ahmadraihanbuatsekolah@gmail.com**
 
-- ⚡ Fun fact **I am handsome, im jokin alright 🤣**
+- ⚡ Fun fact **I am handsome 😎, im jokin alright 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
