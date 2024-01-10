@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reyyy aka Raihan</h1>
 <h3 align="center">A passionate frontend developer, designer from East Borneo, Samarinda, Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raihann7" alt="raihann7" /></a> </p>
-
 - 🌱 I’m recently learning about **Java, Laravel, MySQL**
 
 - 📫 How to reach me **ahmadraihanbuatsekolah@gmail.com**
