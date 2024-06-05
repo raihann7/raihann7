@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="160" src="https://i.pinimg.com/originals/a5/25/f2/a525f24c31e309e603358a8bc478e8ea.jpg"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/a5/25/f2/a525f24c31e309e603358a8bc478e8ea.jpg"  />
 
 ###
 
@@ -67,6 +67,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/raihann7/raihann7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" alt="Snake animation" />
 
 ###
