@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/236x/50/ab/dd/50abdd786bb0dd6590dc013f487ee8bc.jpg"  />
+<img align="right" width="150" height="150" src="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/10/26/3156463854.jpeg" />
 
 ###
 
