@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/d7ee2cebe72c85b885e290bf042752d3/4f922f7fc99a5663-20/s540x810/282891874ee974e1697479882d01166e1792682b.gifv"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -54,6 +50,10 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://s7.ezgif.com/tmp/ezgif-7-c0cd10122b.webp"  />
 
 ###
 
