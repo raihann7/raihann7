@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" width="150" height="150" src="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/10/26/3156463854.jpeg" />
+<div style="width: 150px; height: 150px; overflow: hidden; float: right; margin-left: 15px;">
+  <img src="https://assets.pikiran-rakyat.com/crop/0x0:0x0/1200x675/photo/2024/10/26/3156463854.jpeg" style="width: 100%; height: auto;" />
+</div>
 
 ###
 
