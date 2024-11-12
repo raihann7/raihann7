@@ -9,7 +9,7 @@
 
 ###
 
-<img src="https://s7.ezgif.com/tmp/ezgif-7-c0cd10122b.webp" />
+<img align="right" height="150" src="https://s7.ezgif.com/tmp/ezgif-7-c0cd10122b.webp" />
 
 ###
 
