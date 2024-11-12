@@ -9,9 +9,7 @@
 
 ###
 
-<div style="display: inline-block; margin-right: 10px;">
-    <img align="right" height="150" src="https://s7.ezgif.com/tmp/ezgif-7-c0cd10122b.webp" />
-</div>
+<img align="right" height="150" src="https://s7.ezgif.com/tmp/ezgif-7-c0cd10122b.webp" />
 
 ###
 
