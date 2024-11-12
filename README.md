@@ -9,9 +9,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://s7.ezgif.com/tmp/ezgif-7-c0cd10122b.webp" height="150" alt="centered image" />
-</div>
+<img src="https://s7.ezgif.com/tmp/ezgif-7-c0cd10122b.webp" />
 
 ###
 
