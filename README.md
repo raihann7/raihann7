@@ -65,6 +65,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CruzNadin/cruznadin/main/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
