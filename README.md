@@ -9,6 +9,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://s7.ezgif.com/tmp/ezgif-7-c0cd10122b.webp" height="150" alt="centered image" />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -50,10 +56,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://s7.ezgif.com/tmp/ezgif-7-c0cd10122b.webp"  />
 
 ###
 
