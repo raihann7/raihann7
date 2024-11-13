@@ -1,4 +1,4 @@
-<h2 align="left">Hello, My name is Reyyy</h2>
+<h2 align="left">Hello, I'm Reyyy</h2>
 
 ###
 
