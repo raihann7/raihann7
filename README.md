@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" height="30" alt="davinci resolve logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
+  <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
   <img width="12" />
   <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" height="30" alt="antigravity logo" />
   <img width="12" />
