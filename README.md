@@ -56,7 +56,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/raihann7/raihann7/blob/output/github-contribution-grid-snake2.svg" />
+  <img src="https://raw.githubusercontent.com/raihann7/raihann7/output/github-contribution-grid-snake2.svg" />
 </div>
 
 ###
