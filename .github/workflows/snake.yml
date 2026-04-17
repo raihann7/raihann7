@@ -1,4 +1,4 @@
-name: Generate snake game
+name: Generate snake game lama
 
 on:
   schedule: # execute every 12 hours
