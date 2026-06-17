@@ -57,9 +57,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/raihann7/raihann7/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/raihann7/raihann7/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raihann7/raihann7/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/raihann7/raihann7/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
